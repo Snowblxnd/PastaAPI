@@ -98,20 +98,20 @@
     {
         "Name": "Casoncelli",
         "RegionID": 1,
-        "Type": "Medium",
-        "VideoID": ""
+        "Type": "Filled",
+        "VideoID": "r_lzAc48gtQ"
     },
     {
         "Name": "Cavatappi",
         "RegionID": 1,
         "Type": "Medium",
-        "VideoID": ""
+        "VideoID": "JOv3I8yXssw"
     },
     {
         "Name": "Cavatelli",
         "RegionID": 1,
-        "Type": "Medium",
-        "VideoID": ""
+        "Type": "Small",
+        "VideoID": "Hlz3p5BJhsM"
     },
     {
         "Name": "Chiocciole",
@@ -123,13 +123,13 @@
         "Name": "Conchiglie",
         "RegionID": 1,
         "Type": "Medium",
-        "VideoID": ""
+        "VideoID": "ZRwToJeB1HI"
     },
     {
         "Name": "Croxetti",
         "RegionID": 1,
         "Type": "Medium",
-        "VideoID": ""
+        "VideoID": "2-kw4d7RJ98"
     },
     {
         "Name": "Ditali",
@@ -140,7 +140,7 @@
     {
         "Name": "Ditalini",
         "RegionID": 1,
-        "Type": "Medium",
+        "Type": "Small",
         "VideoID": ""
     },
     {
